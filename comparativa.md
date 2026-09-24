@@ -72,11 +72,11 @@ Para realizar esta comparativa orientada a las necesidades de Sonrisas Dental,he
 Tras revisar el contenido del pdf del tema 2 y contrastarlo con la información de mercado actual, he localizado los siguientes puntos desactualizados:
 
 **Error 1:** 
-*Qué dice el tema:* El documento menciona que Odoo cuenta con su versión actual en la versión 14[cite: 1].
+*Qué dice el tema:* El documento menciona que Odoo cuenta con su versión actual en la versión 14
 *Qué es correcto hoy:* Actualmente, Odoo se encuentra en versiones mucho más avanzadas (como Odoo 18 Community), habiendo evolucionado significativamente en su rendimiento, interfaz y compatibilidad tecnológica desde entonces.
 *Fuente:* Documentación oficial y repositorio de GitHub de Odoo.
 
 **Error 2:** 
-*Qué dice el tema:* En el apartado de CRM libre se indica que SuiteCRM cuenta con una versión de código abierto 7.14.5 bajo licencia AGPL-3.0[cite: 1].
+*Qué dice el tema:* En el apartado de CRM libre se indica que SuiteCRM cuenta con una versión de código abierto 7.14.5 bajo licencia AGPL-3.0
 *Qué es correcto hoy:* SuiteCRM ha evolucionado hacia la rama principal de la versión 8.x, modernizando su arquitectura modular basada en servicios web y adaptándose a entornos de desarrollo actuales en PHP 8.1+.
 *Fuente:* Repositorio oficial y sitio web de SuiteCRM
